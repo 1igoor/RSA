@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\OD\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\Igor\Desktop\OD\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\Igor\Desktop\OD\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\Igor\Desktop\OD\Projekt\Projekt\obj\Debug\Projekt.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Desktop\OD\Projekt\Projekt\obj\Debug\MainWindow.g.cs
+C:\Users\Igor\Desktop\OD\Projekt\Projekt\obj\Debug\App.g.cs
+C:\Users\Igor\Desktop\OD\Projekt\Projekt\obj\Debug\Projekt_MarkupCompile.cache
+C:\Users\Igor\Desktop\OD\Projekt\Projekt\obj\Debug\Projekt_MarkupCompile.lref
+C:\Users\Igor\Desktop\OD\Projekt\Projekt\obj\Debug\MainWindow.baml
+C:\Users\Igor\Desktop\OD\Projekt\Projekt\obj\Debug\Projekt.g.resources
+C:\Users\Igor\Desktop\OD\Projekt\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\Igor\Desktop\OD\Projekt\Projekt\obj\Debug\Projekt.csproj.GenerateResource.Cache
+C:\Users\Igor\Desktop\OD\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\Igor\Desktop\OD\Projekt\Projekt\obj\Debug\Projekt.pdb
